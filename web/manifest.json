@@ -1,6 +1,6 @@
 {
-    "name": "managment",
-    "short_name": "managment",
+    "name": "putatoeWallet",
+    "short_name": "putatoeWallet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

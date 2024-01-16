@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:managment/Screens/add.dart';
-import 'package:managment/data/model/add_date.dart';
-import 'package:managment/data/utlity.dart';
+import 'package:putatoeWallet/Screens/add.dart';
+import 'package:putatoeWallet/data/model/add_date.dart';
+import 'package:putatoeWallet/data/utlity.dart';
 
 
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:managment/data/model/add_date.dart';
+import 'package:putatoeWallet/data/model/add_date.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class Add_Screen extends StatefulWidget {

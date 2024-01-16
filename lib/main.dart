@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:managment/Screens/home.dart';
+import 'package:putatoeWallet/Screens/home.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 import 'data/model/add_date.dart';
